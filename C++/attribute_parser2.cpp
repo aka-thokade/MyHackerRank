@@ -3,7 +3,7 @@
 #include <algorithm>
 #include <string>
 #include <map>
-using namespace std;
+using namespace std; 
 
 string attributeParser(map<string, map<string, string>> &HRML_source, string query){
     string answer = "Not Found!";
