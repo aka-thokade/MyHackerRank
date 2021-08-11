@@ -14,5 +14,5 @@ int main() {
     std::cin >> st.age >> st.first_name >> st.last_name >> st.standard;
     std::cout << st.age << " " << st.first_name << " " << st.last_name << " " << st.standard;
     
-    return 0;
+    return 0; 
 }
