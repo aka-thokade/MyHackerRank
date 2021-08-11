@@ -9,7 +9,7 @@ class Student{
     public:
         void set_age(int age){
             this->age = age;
-        }
+        } 
         
         void set_standard(int standard){
             this->standard = standard;
