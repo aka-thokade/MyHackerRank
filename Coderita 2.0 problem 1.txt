@@ -17,7 +17,7 @@ int cupper = 0, clower = 0;
                         count++;
                     }
                 }
-            }
+            } 
 
 
         return count;
