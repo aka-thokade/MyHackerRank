@@ -1,0 +1,28 @@
+int cupper = 0, clower = 0;
+        int count = 0;
+        int len = S.length();
+        
+            for (int j = 2; j <= len; j=j+2){
+                for (int i = 0; i < len - 1; ++i){
+                    string check = S.substr(i,j);
+                    for (int x = 0; x < check.length(); ++x){
+                        if (isupper(S[x])){
+                            cupper++;
+                        }
+                        if (islower(S[x])){
+                            clower++;
+                        }
+                    }
+                    if (cupper == clower){
+                        count++;
+                    }
+                }
+            }
+
+
+        return count;
+
+
+
+
+//2
