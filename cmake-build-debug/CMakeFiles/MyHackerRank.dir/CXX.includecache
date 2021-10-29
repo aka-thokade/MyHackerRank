@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Akanksha Thokade/Desktop/UG/Data Structures/MyHackerRank/InterviewPreparationKit/Sales_by_match.cpp
+bits/stdc++.h
+-
+
