@@ -3,7 +3,8 @@ project(MyHackerRank)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(MyHackerRank C++/array_introduction.cpp)
+add_executable(MyHackerRank InterviewPreparationKit/Sales_by_match.cpp)
+#add_executable(MyHackerRank C++/array_introduction.cpp)
 #add_executable(MyHackerRank C++/attribute_parser.cpp)
 #add_executable(MyHackerRank C++/attribute_parser2.cpp)
 #add_executable(MyHackerRank C++/basic_data_types.cpp)
