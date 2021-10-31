@@ -12,7 +12,7 @@ vector<string> split_string(string);
 int jumpingOnClouds(vector<int> c) {
     int jump = 0;
 
-    for(int i = 0; i < c.size()-2; i++, jump++){
+    for(int i = 0; i < c.size()-1; i++, jump++){
         if(c[i] == 0 && c[i+2] == 0)
             i++;
     }

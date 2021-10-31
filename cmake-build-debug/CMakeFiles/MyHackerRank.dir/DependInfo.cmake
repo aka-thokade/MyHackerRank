@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Akanksha Thokade/Desktop/UG/Data Structures/MyHackerRank/InterviewPreparationKit/Sales_by_match.cpp" "C:/Users/Akanksha Thokade/Desktop/UG/Data Structures/MyHackerRank/cmake-build-debug/CMakeFiles/MyHackerRank.dir/InterviewPreparationKit/Sales_by_match.cpp.obj"
+  "C:/Users/Akanksha Thokade/Desktop/UG/Data Structures/MyHackerRank/InterviewPreparationKit/New_year_chaos.cpp" "C:/Users/Akanksha Thokade/Desktop/UG/Data Structures/MyHackerRank/cmake-build-debug/CMakeFiles/MyHackerRank.dir/InterviewPreparationKit/New_year_chaos.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -65,27 +65,27 @@ include CMakeFiles/MyHackerRank.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/MyHackerRank.dir/flags.make
 
-CMakeFiles/MyHackerRank.dir/InterviewPreparationKit/Sales_by_match.cpp.obj: CMakeFiles/MyHackerRank.dir/flags.make
-CMakeFiles/MyHackerRank.dir/InterviewPreparationKit/Sales_by_match.cpp.obj: ../InterviewPreparationKit/Sales_by_match.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Akanksha Thokade\Desktop\UG\Data Structures\MyHackerRank\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/MyHackerRank.dir/InterviewPreparationKit/Sales_by_match.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MyHackerRank.dir\InterviewPreparationKit\Sales_by_match.cpp.obj -c "C:\Users\Akanksha Thokade\Desktop\UG\Data Structures\MyHackerRank\InterviewPreparationKit\Sales_by_match.cpp"
+CMakeFiles/MyHackerRank.dir/InterviewPreparationKit/New_year_chaos.cpp.obj: CMakeFiles/MyHackerRank.dir/flags.make
+CMakeFiles/MyHackerRank.dir/InterviewPreparationKit/New_year_chaos.cpp.obj: ../InterviewPreparationKit/New_year_chaos.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Akanksha Thokade\Desktop\UG\Data Structures\MyHackerRank\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/MyHackerRank.dir/InterviewPreparationKit/New_year_chaos.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MyHackerRank.dir\InterviewPreparationKit\New_year_chaos.cpp.obj -c "C:\Users\Akanksha Thokade\Desktop\UG\Data Structures\MyHackerRank\InterviewPreparationKit\New_year_chaos.cpp"
 
-CMakeFiles/MyHackerRank.dir/InterviewPreparationKit/Sales_by_match.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MyHackerRank.dir/InterviewPreparationKit/Sales_by_match.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Akanksha Thokade\Desktop\UG\Data Structures\MyHackerRank\InterviewPreparationKit\Sales_by_match.cpp" > CMakeFiles\MyHackerRank.dir\InterviewPreparationKit\Sales_by_match.cpp.i
+CMakeFiles/MyHackerRank.dir/InterviewPreparationKit/New_year_chaos.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MyHackerRank.dir/InterviewPreparationKit/New_year_chaos.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Akanksha Thokade\Desktop\UG\Data Structures\MyHackerRank\InterviewPreparationKit\New_year_chaos.cpp" > CMakeFiles\MyHackerRank.dir\InterviewPreparationKit\New_year_chaos.cpp.i
 
-CMakeFiles/MyHackerRank.dir/InterviewPreparationKit/Sales_by_match.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyHackerRank.dir/InterviewPreparationKit/Sales_by_match.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Akanksha Thokade\Desktop\UG\Data Structures\MyHackerRank\InterviewPreparationKit\Sales_by_match.cpp" -o CMakeFiles\MyHackerRank.dir\InterviewPreparationKit\Sales_by_match.cpp.s
+CMakeFiles/MyHackerRank.dir/InterviewPreparationKit/New_year_chaos.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyHackerRank.dir/InterviewPreparationKit/New_year_chaos.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Akanksha Thokade\Desktop\UG\Data Structures\MyHackerRank\InterviewPreparationKit\New_year_chaos.cpp" -o CMakeFiles\MyHackerRank.dir\InterviewPreparationKit\New_year_chaos.cpp.s
 
 # Object files for target MyHackerRank
 MyHackerRank_OBJECTS = \
-"CMakeFiles/MyHackerRank.dir/InterviewPreparationKit/Sales_by_match.cpp.obj"
+"CMakeFiles/MyHackerRank.dir/InterviewPreparationKit/New_year_chaos.cpp.obj"
 
 # External object files for target MyHackerRank
 MyHackerRank_EXTERNAL_OBJECTS =
 
-MyHackerRank.exe: CMakeFiles/MyHackerRank.dir/InterviewPreparationKit/Sales_by_match.cpp.obj
+MyHackerRank.exe: CMakeFiles/MyHackerRank.dir/InterviewPreparationKit/New_year_chaos.cpp.obj
 MyHackerRank.exe: CMakeFiles/MyHackerRank.dir/build.make
 MyHackerRank.exe: CMakeFiles/MyHackerRank.dir/linklibs.rsp
 MyHackerRank.exe: CMakeFiles/MyHackerRank.dir/objects1.rsp

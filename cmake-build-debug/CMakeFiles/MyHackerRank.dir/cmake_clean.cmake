@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/MyHackerRank.dir/InterviewPreparationKit/Sales_by_match.cpp.obj"
+  "CMakeFiles/MyHackerRank.dir/InterviewPreparationKit/New_year_chaos.cpp.obj"
   "MyHackerRank.exe"
   "MyHackerRank.exe.manifest"
   "MyHackerRank.pdb"

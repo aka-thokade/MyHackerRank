@@ -128,29 +128,29 @@ MyHackerRank/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyHackerRank.dir\build.make CMakeFiles/MyHackerRank.dir/build
 .PHONY : MyHackerRank/fast
 
-InterviewPreparationKit/Sales_by_match.obj: InterviewPreparationKit/Sales_by_match.cpp.obj
-.PHONY : InterviewPreparationKit/Sales_by_match.obj
+InterviewPreparationKit/New_year_chaos.obj: InterviewPreparationKit/New_year_chaos.cpp.obj
+.PHONY : InterviewPreparationKit/New_year_chaos.obj
 
 # target to build an object file
-InterviewPreparationKit/Sales_by_match.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyHackerRank.dir\build.make CMakeFiles/MyHackerRank.dir/InterviewPreparationKit/Sales_by_match.cpp.obj
-.PHONY : InterviewPreparationKit/Sales_by_match.cpp.obj
+InterviewPreparationKit/New_year_chaos.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyHackerRank.dir\build.make CMakeFiles/MyHackerRank.dir/InterviewPreparationKit/New_year_chaos.cpp.obj
+.PHONY : InterviewPreparationKit/New_year_chaos.cpp.obj
 
-InterviewPreparationKit/Sales_by_match.i: InterviewPreparationKit/Sales_by_match.cpp.i
-.PHONY : InterviewPreparationKit/Sales_by_match.i
+InterviewPreparationKit/New_year_chaos.i: InterviewPreparationKit/New_year_chaos.cpp.i
+.PHONY : InterviewPreparationKit/New_year_chaos.i
 
 # target to preprocess a source file
-InterviewPreparationKit/Sales_by_match.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyHackerRank.dir\build.make CMakeFiles/MyHackerRank.dir/InterviewPreparationKit/Sales_by_match.cpp.i
-.PHONY : InterviewPreparationKit/Sales_by_match.cpp.i
+InterviewPreparationKit/New_year_chaos.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyHackerRank.dir\build.make CMakeFiles/MyHackerRank.dir/InterviewPreparationKit/New_year_chaos.cpp.i
+.PHONY : InterviewPreparationKit/New_year_chaos.cpp.i
 
-InterviewPreparationKit/Sales_by_match.s: InterviewPreparationKit/Sales_by_match.cpp.s
-.PHONY : InterviewPreparationKit/Sales_by_match.s
+InterviewPreparationKit/New_year_chaos.s: InterviewPreparationKit/New_year_chaos.cpp.s
+.PHONY : InterviewPreparationKit/New_year_chaos.s
 
 # target to generate assembly for a file
-InterviewPreparationKit/Sales_by_match.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyHackerRank.dir\build.make CMakeFiles/MyHackerRank.dir/InterviewPreparationKit/Sales_by_match.cpp.s
-.PHONY : InterviewPreparationKit/Sales_by_match.cpp.s
+InterviewPreparationKit/New_year_chaos.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyHackerRank.dir\build.make CMakeFiles/MyHackerRank.dir/InterviewPreparationKit/New_year_chaos.cpp.s
+.PHONY : InterviewPreparationKit/New_year_chaos.cpp.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... MyHackerRank
-	@echo ... InterviewPreparationKit/Sales_by_match.obj
-	@echo ... InterviewPreparationKit/Sales_by_match.i
-	@echo ... InterviewPreparationKit/Sales_by_match.s
+	@echo ... InterviewPreparationKit/New_year_chaos.obj
+	@echo ... InterviewPreparationKit/New_year_chaos.i
+	@echo ... InterviewPreparationKit/New_year_chaos.s
 .PHONY : help
 
 
